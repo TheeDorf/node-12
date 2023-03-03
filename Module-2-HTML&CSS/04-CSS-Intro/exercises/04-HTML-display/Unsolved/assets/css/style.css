@@ -14,15 +14,18 @@ ul {
 
 /* List items in navigation bar */
 li {
+  display: inline; 
   /* TODO: Add your code here */
-  list-style-type: none;
+  list-style-type:none;
   font-size: 40px;
+  
 }
 
 /* Boxes */
-img {
+img { display: block;
   /* TODO: Add your code here */
   margin: 0 auto;
+  
 }
 
 #item-1 {
@@ -40,5 +43,5 @@ img {
 /* Box 3 */
 #image-3 {
   /* TODO: Add your code here */
-  display: none;
+  display: center;
 }
