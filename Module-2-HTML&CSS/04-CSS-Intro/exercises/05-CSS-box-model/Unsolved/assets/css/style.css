@@ -17,7 +17,7 @@ img {
   border: black;
 }
 
-.i1 {   border-block-start: 5px solid black;
+.i1 { border-block-start: 5px solid black;
   border-inline-end: 5px solid black;
   border-block-end: 5px solid black;
   border-inline-start: 5px solid black;padding:10px lightblue;}
