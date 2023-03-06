@@ -19,8 +19,12 @@ section {
 
 /* Relative positioning */
 #relative-box {
-  position: relative;
+  position: center ;
   left: 200px;
+  right: 200px;
+  top: 200px; 
+  bottom: 200px; 
+  justify-content: center;
 }
 
 /* Absolute positioning */
