@@ -16,11 +16,11 @@ header {
 
 /* 
 What happens when we set the display property to flex? 
-TODO: Write your answer here 
+TODO: it changes what the nav bar does, if you make it none the bar will go away
 */
 nav {
   display: flex;
-  background-color: #d8a47f;
+  background-color: #d8a47f; 
 }
 
 nav a {
