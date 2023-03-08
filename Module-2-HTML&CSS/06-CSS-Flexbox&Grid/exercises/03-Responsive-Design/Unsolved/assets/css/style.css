@@ -32,7 +32,7 @@ nav a {
 
 /* 
 What is the flex-wrap property? 
-TODO: Write your answer here 
+TODO: wrap sets if the items are forced into one line or wrap into multiple lines 
 */
 main {
   display: flex;
@@ -56,7 +56,7 @@ footer {
 
 /* 
 What does the justify-content property do? 
-TODO: Write your answer here 
+TODO: it moves the content on the main axis  
 */
 .products {
   flex: 4;
@@ -70,7 +70,9 @@ TODO: Write your answer here
 /* 
 What is the flex property a shorthand property for?
 What is it doing here? 
-TODO: Write your answer here 
+TODO: allows immediate child elemnts to have a layout
+it is changing the size of each of the boxes. the lower the px the smaller the box
+
 */
 .card {
   border-style: solid;
@@ -95,7 +97,8 @@ TODO: Write your answer here
 /* 
 What does the flex-direction property define?
 What is it doing here? 
-TODO: Write your answer here 
+TODO: if the element should be in a row or column 
+making it a column
 */
 @media screen and (max-width: 768px) {
   main,
