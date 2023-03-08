@@ -83,7 +83,7 @@ footer {
 }
 
 .card > header {
-  border-radius: var(--br);
+  border-radius: var(--br) var(--br) 0px 0px;
   padding: 20px;
 }
 
@@ -93,7 +93,7 @@ footer {
 
 .card > img {
   width: 100%;
-  border-radius: var(--br);
+ 
 }
 
 @media screen and (max-width: 768px) {
