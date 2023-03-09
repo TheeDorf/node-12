@@ -1,6 +1,5 @@
 // TODO: Declare variable 'shout' with the value 'Shout' so it's available to `justShout` and `shoutItAllOut` functions
-const shout = "Shout";
-
+var shout = "Shout"
 function justShout() {
   console.log(shout + ", " + shout); 
   return;
