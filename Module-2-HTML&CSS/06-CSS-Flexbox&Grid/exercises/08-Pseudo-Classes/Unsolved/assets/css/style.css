@@ -90,18 +90,22 @@ footer {
 }
 
 /* TODO: Add styles to display and hide the resource links */
-.resources .link{
-display: none;
+.resources .link
+{
+  display:none;
 }
 .resources:hover .link{
-display: block;
+  display: block
 }
+
 .resources h3{
   font-size: 150%;
 }
+
 .link a{
   text-decoration: none;
 }
+
 .link a:hover{
   color: red;
   text-decoration: underline;
