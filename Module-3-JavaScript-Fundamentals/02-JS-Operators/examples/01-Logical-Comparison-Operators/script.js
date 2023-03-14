@@ -8,7 +8,10 @@ console.log(a - b);
 console.log(a / b);
 console.log(a * b);
 
-// Modulus returns the remainder between two numbers.  
+// Modulus returns the remainder between two numbers. 
+//  divides and spits out remainder
+// 45 % 5 = 0 becasue its 9 
+// 34 % 3 = 1
 console.log(a % b);
 
 // Comparison operators combine with strings, booleans and numbers to form an expression that evaluates to true or false
@@ -48,3 +51,7 @@ console.log(expression2);
 
 // Returns false
 console.log(!expression2);
+
+
+
+
