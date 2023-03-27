@@ -16,9 +16,10 @@ isEqual(10, 10);
 // Refer to sample functions as needed!
 
 // TODO: Call the isEqual function so that it logs "They are equal in value"
-
+isEqual(5,"5");
 // TODO: Rewrite isEqual as a function expression called 'isEqualTakeTwo`
-
-// TODO: Call the isEqualTakeTwo function so that it logs "They are not equal"
-
+let isEqualTake2 = isEqual; 
+  console.log(isEqualTake2);
+  // TODO: Call the isEqualTakeTwo function so that it logs "They are not equal"
+  isEqualTake2 (5, 10)
 
